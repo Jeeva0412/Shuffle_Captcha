@@ -1,0 +1,5 @@
+{
+  "name": "ShellProof Captcha",
+  "description": "A high-security, physics-based shell game captcha that tests visual tracking and human persistence across three escalating levels of difficulty.",
+  "requestFramePermissions": []
+}
